@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamsinclairf&label=Profile%20views&color=0e75b6&style=flat" alt="williamsinclairf" /> </p>
 
-- 🌱 I’m currently learning **Advanced-ish React, Rails, design patterns**
+- 🌱 I’m currently learning: **Advanced-ish React, .NET Core, Rails, design patterns**
 
-- ⚡ Fun fact **Dogs > Cats**
+- ⚡ Fun fact: **Dogs > Cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
