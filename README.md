@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">I love to express my creative side through code!</h3>
 
-- 🌱 I’m currently learning: **Advanced-ish React, .NET Core, Rails, design patterns**
-
-- ⚡ Fun fact: **Dogs > Cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
